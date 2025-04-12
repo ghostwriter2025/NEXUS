@@ -1,2 +1,11 @@
 # NEXUS
-This repository provides anonymized datasets and demonstration files related to the paper "NEXUS: Towards Accurate and Scalable Mapping between Vulnerabilities and Attack Techniques" for review purposes. No source code is included.
+Anonymized sample datasets and demo files for the paper NEXUS: Towards Accurate and Scalable Mapping between Vulnerabilities and Attack Techniques (for review purposes, no code included).
+
+
+Copyright (c) 2025.
+
+The sample datasets and demonstration files in this repository are provided solely for the purpose of reviewing the paper 
+"NEXUS: Towards Accurate and Scalable Mapping between Vulnerabilities and Attack Techniques."
+
+These samples are anonymized and intended exclusively for paper review.  
+Reuse, redistribution, or modification of these materials outside the context of the review process is not permitted without explicit permission from the authors.
