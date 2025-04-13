@@ -33,7 +33,7 @@ Each uploaded dataset contains **100 data samples**, covering different modules 
 
 This demo illustrates the testing of four CVEs, feedback provision for a selected TTP, and the adaptation process in NEXUS. It highlights how initial predictions are made, feedback is integrated, and updates are reflected across related samples.
 
-🔗 [View Demo Video](https://drive.google.com/file/d/1tyjw3itfWS6Mv6vT8jTKqyPbxn5EZ2iq/view?usp=sharing)
+🔗 [View Demo Video](https://drive.google.com/file/d/1EQsQTYUn_l7e6bwuE5c_CJtr--y9KDXP/view?usp=drive_link)
 
 ---
 
