@@ -8,7 +8,7 @@
 ## 📂 Repository Overview
 
 This repository provides anonymized sample datasets and demonstration files to support the review of our paper.  
-No source code is included.
+No source code is included. Our datasets and source code will be released upon publication.
 
 Each uploaded dataset contains **100 data samples**, covering different modules of the NEXUS pipeline.
 
